@@ -1,1 +1,1 @@
-![note](rf/1.jpg)
+![note](rf/1.JPG)
