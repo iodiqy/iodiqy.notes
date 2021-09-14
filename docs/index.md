@@ -1,5 +1,4 @@
 #Rheumatology
-
 ---
 [Ankylosing Spondylitis(болезнь Бехтерева)](rheumatology/AS.md)
 
