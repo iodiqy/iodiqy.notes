@@ -12,4 +12,4 @@ No: 5
 - Weight loss
 - **Livedo reticularis**
 
-    ![livedoreticularis](Untitled.png)
+    ![livedoreticularis](livedo.jpg)
