@@ -1,3 +1,4 @@
+#[I'm a relative reference to a repository file](../blob/master/LICENSE)
 # Dermatomyositis
 
 No: 5
@@ -13,13 +14,3 @@ No: 5
 - **Livedo reticularis**
 
     ![livedoreticularis](Untitled.png)
-
-
-No,Name,Description,Progress,rep1,estimate,rep2,estimate 1,rep3,estimate 2
-1,Acute Rheumatic Fever,,,,,,,,
-2,Rheumatoid arthritis,,,,,,,,
-3,Ankylosing Spondylitis(болезнь Бехтерева),,,,,,,,
-4,Systemic lupus erythematosus. Systemic sclerodermia,,,,,,,,
-5,Dermatomyositis,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
