@@ -1,6 +1,6 @@
 Rheumatology
 ---
-[Rheumatic fever](rheumatology/rf.md)
+[Rheumatic fever](rheumatology/rheumatic_fever.md)
 
 [Rheumatoid arthritis](rheumatology/rheumatoid_arthritis.md)
 
